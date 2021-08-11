@@ -1,0 +1,22 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.btn-danger {
+    margin-right: 10px;
+}
+td:last-child {
+    width: 0;
+    white-space: nowrap;
+}
+.table__item-input {
+    width: 100%;
+}
+.add-article {
+    width: 100%;
+    display: flex;
+}
+.add-article__input {
+    margin-right: 10px;
+    width: 100%;
+}
